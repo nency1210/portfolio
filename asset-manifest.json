@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.57eea33d.css",
-    "main.js": "/portfolio/static/js/main.59b800ee.js",
-    "static/media/shopping.jpeg": "/portfolio/static/media/shopping.8254b40688ac98f07cf3.jpeg",
-    "static/media/profile3.jpg": "/portfolio/static/media/profile3.0e1b73f7f31030fadeed.jpg",
-    "static/media/uwin.jpeg": "/portfolio/static/media/uwin.27af9a533845370789c5.jpeg",
-    "static/media/Software-Developer-Nency.pdf": "/portfolio/static/media/Software-Developer-Nency.60dac8c70710ef86d2d8.pdf",
-    "static/media/header-picture2.jpeg": "/portfolio/static/media/header-picture2.88b9e0b0d82b8f448ffb.jpeg",
-    "static/media/Grocsite.jpeg": "/portfolio/static/media/Grocsite.efb4d724d47aea03abee.jpeg",
-    "static/media/hotair.jpeg": "/portfolio/static/media/hotair.7adfe9122e9ab7fe99b6.jpeg",
-    "index.html": "/portfolio/index.html",
-    "main.57eea33d.css.map": "/portfolio/static/css/main.57eea33d.css.map",
-    "main.59b800ee.js.map": "/portfolio/static/js/main.59b800ee.js.map"
+    "main.css": "/static/css/main.57eea33d.css",
+    "main.js": "/static/js/main.aae187e9.js",
+    "static/media/shopping.jpeg": "/static/media/shopping.8254b40688ac98f07cf3.jpeg",
+    "static/media/profile3.jpg": "/static/media/profile3.0e1b73f7f31030fadeed.jpg",
+    "static/media/uwin.jpeg": "/static/media/uwin.27af9a533845370789c5.jpeg",
+    "static/media/Software-Developer-Nency.pdf": "/static/media/Software-Developer-Nency.60dac8c70710ef86d2d8.pdf",
+    "static/media/header-picture2.jpeg": "/static/media/header-picture2.88b9e0b0d82b8f448ffb.jpeg",
+    "static/media/Grocsite.jpeg": "/static/media/Grocsite.efb4d724d47aea03abee.jpeg",
+    "static/media/hotair.jpeg": "/static/media/hotair.7adfe9122e9ab7fe99b6.jpeg",
+    "index.html": "/index.html",
+    "main.57eea33d.css.map": "/static/css/main.57eea33d.css.map",
+    "main.aae187e9.js.map": "/static/js/main.aae187e9.js.map"
   },
   "entrypoints": [
     "static/css/main.57eea33d.css",
-    "static/js/main.59b800ee.js"
+    "static/js/main.aae187e9.js"
   ]
 }
