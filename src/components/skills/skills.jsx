@@ -1,10 +1,10 @@
 import React from "react";
-import "./skills.css";
+import "./Skills.css";
 import { BsPatchCheckFill } from "react-icons/bs";
 
 const Skills = () => {
   return (
-    <section id="experience">
+    <section id="skills">
       <h5>The skills I have</h5>
       <h2>My Technical Skills</h2>
       <div className="container experience__container">

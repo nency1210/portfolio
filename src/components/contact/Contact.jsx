@@ -22,7 +22,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact">
+    <section id="contact" className="contact-section">
       <h5>Get In Touch</h5>
       <h2>Contact Me</h2>
       <div className="container contact__container">
@@ -42,35 +42,6 @@ const Contact = () => {
             </a>
           </article>
         </div>
-        {/* END OF CONTACT OPTIONS */}
-        {emailIsSent ? (
-          <h2 id="Contact__sent-message">
-            Your Message was successfully sent!
-          </h2>
-        ) : (
-          <form onSubmit={sendEmail}>
-            <input
-              type="text"
-              name="name"
-              placeholder="Your Full Name"
-              required
-            />
-            <input
-              type="email"
-              name="email"
-              placeholder="Your Email"
-              required
-            />
-            <textarea
-              name="message"
-              rows="7"
-              placeholder="Your Message"
-            ></textarea>
-            <button type="submit" className="btn btn-primary">
-              Send Message
-            </button>
-          </form>
-        )}
       </div>
     </section>
   );

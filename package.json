@@ -1,5 +1,5 @@
 {
-  "homepage": "https://nency1210.github.io/react-portfolio-website-master/",
+  "homepage": "https://nency1210.github.io/portfolio",
   "name": "react-portfolio-website-master",
   "version": "1.0.0",
   "description": "Your app description",
@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "emailjs-com": "^3.2.0",
+    "react-dom": "^18.2.0",
     "react-icon": "^1.0.0",
     "react-icons": "^4.11.0",
     "react-scripts": "^5.0.1",
