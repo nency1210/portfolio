@@ -45,7 +45,7 @@ const About = () => {
           <div>
           <p>
           Hey, I'm Nencyben Patel, a tech enthusiast with a knack for problem-solving. 
-          Armed with a Master's in Applied Computing, I've delved into the intricate world of C, Java, and Python, bringing over 2 Years of dynamic software development experience.
+          Armed with a Master's in Applied Computing, I've delved into the intricate world of C, Java, and Python, bringing almost 2 Years of dynamic software development experience.
                             </p>
           <p>
           My journey includes impactful roles at Semper8, where I played a key part in designing user-centric interfaces and delving into JavaScript frontend development. 
