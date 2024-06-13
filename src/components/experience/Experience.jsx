@@ -17,7 +17,7 @@ const Experience = () => {
 <li>Designed user-centered, aesthetically pleasing digital interfaces that increased user engagement by 20%.</li>
 <li>Enhanced the visual appeal and interaction of the user interface, contributing to a 25% increase in user satisfaction scores.</li>
 <li>Created effective APIs using Python, improving communication between front-end programs and back-end systems by 30%.</li>
-<li>Managed SQL databases to ensure data integrity, effective retrieval, and secure storage, leading to a 40% improvement in overall system performance and reliability.</section>li>
+<li>Managed SQL databases to ensure data integrity, effective retrieval, and secure storage, leading to a 40% improvement in overall system performance and reliability.</li>
 
         </ul>
       </div>
@@ -34,7 +34,7 @@ const Experience = () => {
 <li>Made data-driven decisions based on user feedback and site performance, improving user experience metrics by 25%.</li>
 <li>Collaborated with a diverse team to implement client-specific solutions, contributing to a 10% increase in customer satisfaction.</li>
 <li>Implemented rigorous testing protocols using Selenium, reducing bug occurrence by 30% and ensuring the delivery of high-quality, error-free code.</li>
-Contributed to rapid feature releases and continual enhancements, improving the product development cycle by 20%.</li>
+<li>Contributed to rapid feature releases and continual enhancements, improving the product development cycle by 20%.</li>
 
         </ul>
       </div>
